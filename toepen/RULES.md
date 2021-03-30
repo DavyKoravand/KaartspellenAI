@@ -1,0 +1,3 @@
+# Rules
+
+The game starts
